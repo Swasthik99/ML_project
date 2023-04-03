@@ -1,0 +1,11 @@
+pandas
+numpy
+seaborn
+datetime
+matplotlib
+scikit-learn
+dill
+catboost
+xgboost
+flask
+#-e .
